@@ -1,11 +1,11 @@
-# The purpose of the tidying work is 
-# 1) To create a tidy dataset containing the calculated mean values and standard deviations of the measurements
-# 2) To create a second independent tidy data set called "Summary  with the average of each variable 
-# for each activity and each subject
+The purpose of the tidying work is 
+1) To create a tidy dataset containing the calculated mean values and standard deviations of the measurements
+2) To create a second independent tidy data set called "Summary  with the average of each variable 
+for each activity and each subject
 
-# run_analysis.R script performs the tidying work
-# dplyr package is required for the work
-# The analysis assumes that the folder "UCI HAR Datasets" is in the working directory
+run_analysis.R script performs the tidying work
+dplyr package is required for the work
+The analysis assumes that the folder "UCI HAR Datasets" is in the working directory
 
 The tidy dataset contain the following variables:
 
