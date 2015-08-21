@@ -1,7 +1,7 @@
-# Getting-and-cleaning-data-Assignment
-# Coursera Course Getting and cleaning data - Assignment
+Getting-and-cleaning-data-Assignment
+Coursera Course Getting and cleaning data - Assignment
 
-# This assignment relates to tidying a dataset:
+This assignment relates to tidying a dataset:
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -14,11 +14,11 @@ activityrecognition@smartlab.ws
 www.smartlab.ws
 ==================================================================
 
-# The data provided for this work can be found:
+The data provided for this work can be found:
 
-# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-#The dataset includes the following files:
+The dataset includes the following files:
 =========================================
 
 ====In the GITHUB REPOSITORY=====
