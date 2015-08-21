@@ -1,6 +1,6 @@
-The purpose of the tidying work is 
-1) To create a tidy dataset containing the calculated mean values and standard deviations of the measurements
-2) To create a second independent tidy data set called "Summary  with the average of each variable 
+#The purpose of the tidying work is 
+#1) To create a tidy dataset containing the calculated mean values and standard deviations of the measurements
+#2) To create a second independent tidy data set called "Summary  with the average of each variable 
 for each activity and each subject
 
 run_analysis.R script performs the tidying work
